@@ -1,5 +1,5 @@
 # BOLT-v-0.11
-This is open source code for Bolt
+This is open source code for Bolt.
 Bolt is a basic programming language developed by Karan Goyal. 
 It's easy and simple syntax make it extremely easy to learn.
 Bolt is only focused for people to get a better grasp to complex programming language by first understanding a programming language so amazing and simple as Bolt. 
